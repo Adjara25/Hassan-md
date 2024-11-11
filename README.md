@@ -44,12 +44,12 @@ Contributions to BYTE-MD-LITE are welcome! If you have ideas for new features, i
 
 ## License
 
-The BYTE-MD-LITE is released.
+The HASSAN-MD is released.
 
 Enjoy the diverse features of the BYTE-MD-LITE  to enhance your conversations and make your WhatsApp experience more interesting!
 
 ## Developer:
-- [**Hamza**](https://wa.me/923072380380)
+- [**Hassan**](https://wa.me/923072380380)
 
 **Thanks to:**
 ## Allah
