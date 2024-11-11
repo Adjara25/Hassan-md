@@ -2,15 +2,12 @@
 # Hassan-md
 •WhatsApp bot that will allow you to do searches and other things.
 
-## <p align="center"> BYTE-V.lite WHATSAPP BOT
-<br>
-<strong>Looking for the BYTE-MD? then</strong>
-<a href="https://github.com/HyHamza/BYTE-MD">Click Here</a>
+href="https://github.com/HyHamza/BYTE-MD">Click Here</a>
     
 ### Setup
 
 **DEPLOY ON HEROKU**
-   - **Click [`FORK`](https://github.com/HyHamza/BYTE-MD-LITE/fork) and `Star ⭐ Repository` for Courage.**
+   - **Click [`FORK`](https://github.com/Adjara25/Hassan-md/fork) and `Star ⭐ Repository` for Courage.**
    - You will get a session ID in WhatsApp, copy the ID only.
    - **If you don't have an account on [Heroku](https://signup.heroku.com/), [create an account now](https://signup.heroku.com/).**
 </p>
@@ -40,16 +37,16 @@
 
 ## Contributions
 
-Contributions to BYTE-MD-LITE are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+Contributions to HASSAN-MD are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
 ## License
 
 The HASSAN-MD is released.
 
-Enjoy the diverse features of the BYTE-MD-LITE  to enhance your conversations and make your WhatsApp experience more interesting!
+Enjoy the diverse features of the HASSAN-MD  to enhance your conversations and make your WhatsApp experience more interesting!
 
 ## Developer:
-- [**Hassan**](https://wa.me/923072380380)
+- [**Hassan**](https://wa.me/2250152428479)
 
 **Thanks to:**
 ## Allah
