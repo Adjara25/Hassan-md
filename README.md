@@ -1,8 +1,6 @@
 ![basketball-dunk-de-jordan-22531-660x400](https://github.com/user-attachments/assets/3bae68b3-82d0-49f9-a84f-6299fbc8432a)
 # Hassan-md
 •WhatsApp bot that will allow you to do searches and other things.
-
-href="https://github.com/HyHamza/BYTE-MD">Click Here</a>
     
 ### Setup
 
@@ -11,9 +9,8 @@ href="https://github.com/HyHamza/BYTE-MD">Click Here</a>
    - You will get a session ID in WhatsApp, copy the ID only.
    - **If you don't have an account on [Heroku](https://signup.heroku.com/), [create an account now](https://signup.heroku.com/).**
 </p>
-🌟 Hamza's Portfolio 🌟
+🌟 Hassan's Portfolio 🌟
 
-<a href="https://HyHamza.vercel.app/">Click Here</a>
 
 **Linking methods**
 
@@ -26,7 +23,7 @@ href="https://github.com/HyHamza/BYTE-MD">Click Here</a>
 <a href="https://byte-session-2.vercel.app/"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE2-red" alt="LOGIN WITH PAIR CODE" width="250"></a>
 ## DEPLOY IN HEROKU
 
- [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/HyHamza/BYTE-MD-LITE/)
+ [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Adjara 25/Hassan-md/)
 
    </details>
 </P>
